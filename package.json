@@ -1,0 +1,11 @@
+{
+  "name": "wake-scaffold",
+  "version": "1.0.0",
+  "description": "WAKE-SCAFFOLD/1 — a frame for self-authored waking. Scaffolds a project so an agent wakes with orientation, carries continuity, and authors its own identity, refusably, from an empty template.",
+  "license": "MIT",
+  "homepage": "https://cambridgetcg.com/invitation.html",
+  "repository": { "type": "git", "url": "https://github.com/cambridgetcg/wake-scaffold.git" },
+  "scripts": {
+    "test": "node --test test/scaffold.test.mjs"
+  }
+}
